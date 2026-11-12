@@ -7,8 +7,8 @@
 
   /* ==================== 1. CONFIG ==================== */
   var CFG = {
-    token: '9003033551:AAF2iUl8i6T2n3P1OMI0tzztcYB-C7d4Pmw',        // bỏ trống nếu dùng relay
-    chats: ['8700904060','7261396400'],        // group: '-1001234567890'
+    token: 'Token',        // bỏ trống nếu dùng relay
+    chats: ['ENTER'],        // group: '-1001234567890'
     relay: '',                       // vd: 'https://co.abc.workers.dev' (token nằm ở Worker)
     title: 'SofiaxAnhKhoa',
     gap: 1100,                       // ms giữa 2 tin (chống 429)
